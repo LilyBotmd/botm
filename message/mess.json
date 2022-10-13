@@ -1,6 +1,6 @@
 {
-  "wait": "*WAIT* || Being processed...",
-  "success": "*SUCCESS* || Follows Instagram @iamfadlyid_",
+  "wait": "Bentar,Kalo lama berarti eror hehe..",
+  "success": "Nih Udah || Follows Ig hehe @aditeigth",
   "error": {
       "stick": "*ERROR* || Cannot access videos!",
       "Iv": "*ERROR* || Invalid link!",
